@@ -11,22 +11,22 @@
         android:label="fragment_start"
         tools:layout="@layout/fragment_start" />
     <fragment
-        android:id="@+id/basketFragment3"
+        android:id="@+id/basketFragment"
         android:name="ru.anb.givemetool.ui.basket.BasketFragment"
         android:label="fragment_basket"
         tools:layout="@layout/fragment_basket" />
     <fragment
-        android:id="@+id/favouriteFragment2"
+        android:id="@+id/favouriteFragment"
         android:name="ru.anb.givemetool.ui.favourite.FavouriteFragment"
         android:label="fragment_favourite"
         tools:layout="@layout/fragment_favourite" />
     <fragment
-        android:id="@+id/messageFragment2"
+        android:id="@+id/messageFragment"
         android:name="ru.anb.givemetool.ui.message.MessageFragment"
         android:label="fragment_message"
         tools:layout="@layout/fragment_message" />
     <fragment
-        android:id="@+id/profileFragment2"
+        android:id="@+id/profileFragment"
         android:name="ru.anb.givemetool.ui.profile.ProfileFragment"
         android:label="fragment_profile"
         tools:layout="@layout/fragment_profile" />

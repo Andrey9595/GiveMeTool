@@ -1,7 +1,7 @@
 package ru.anb.givemetool.data
 
-data class StartItems(
+data class StartItem(
     val id: Int,
-    val image: String,
+    val image: Int,
     val description: String
 )
